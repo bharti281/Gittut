@@ -1,3 +1,4 @@
 *.log
 new/
-dire/
+/dire/
+static/dire/

@@ -1,3 +1,6 @@
 This is my first virsion of my project 
 i want this to go to commit
 change by Bharti
+
+chnages
+static changes
